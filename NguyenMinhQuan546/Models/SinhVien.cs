@@ -10,6 +10,5 @@ namespace NguyenMinhQuan546.Models
         public string MaSinhVien { get; set; }
         public string HoTen { get; set; }
         public int MaLop { get; set; }
-        
     }
 }
