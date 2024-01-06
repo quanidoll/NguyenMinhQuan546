@@ -15,5 +15,6 @@ namespace NguyenMinhQuan546.Data
         }
 
         public DbSet<NguyenMinhQuan546.Models.SinhVien> SinhVien { get; set; } = default!;
+        public DbSet<NguyenMinhQuan546.Models.LopHoc> LopHoc { get; set; } = default!;
     }
 }
