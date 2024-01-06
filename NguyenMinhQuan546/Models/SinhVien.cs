@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace NguyenMinhQuan546.Models
 {
     [Table("SinhVien")]
-    public class SinhVien
+    public class SinhVien 
     {
         [Key]
         public string MaSinhVien { get; set; }
